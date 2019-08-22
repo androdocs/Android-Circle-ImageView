@@ -1,4 +1,6 @@
 # Android-Circle-ImageView
+<img src="https://www.androdocs.com/files/uploads/large/android-circle-imageview-with-border-using-kotlin-cover-1566392360.jpg"/>
+<p>Read the tutorial on creating Android Circle ImageView <a href ="https://www.androdocs.com/tutorials/android-circle-imageview-with-border-using-kotlin.html" target="_blank"><b>here</b></a></p>
 <h3>Step 1. Add the JitPack repository to your build file</h3>
 <p>Add it in your root <strong>build.gradle</strong> at the end of repositories:</p>
 <pre>allprojects {
